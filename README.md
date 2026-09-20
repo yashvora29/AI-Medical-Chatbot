@@ -52,3 +52,8 @@ Google Gemini
      ↓
 Final Answer
 
+## Author
+
+**Yash Vora**
+
+GitHub: [yashvora29](https://github.com/yashvora29)
